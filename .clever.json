@@ -1,0 +1,53 @@
+{
+  "apps": [
+    {
+      "app_id": "app_91804eb9-d752-4074-93a0-f196a5eb24d8",
+      "org_id": "user_bd316ba2-4e6a-4a87-967e-1f7ef4efb510",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_91804eb9-d752-4074-93a0-f196a5eb24d8.git",
+      "name": "doublon",
+      "alias": "doublon"
+    },
+    {
+      "app_id": "app_e59fc53f-c778-4898-8b9b-9bacbac5f239",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_e59fc53f-c778-4898-8b9b-9bacbac5f239.git",
+      "name": "doublon",
+      "alias": "doublon"
+    },
+    {
+      "app_id": "app_a59ae867-550e-4aaa-8c22-f7a8965d3db6",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_a59ae867-550e-4aaa-8c22-f7a8965d3db6.git",
+      "name": "triple,",
+      "alias": "triple"
+    },
+    {
+      "app_id": "app_1ae70155-b4ab-4b1d-86e2-65c3f48f0dcf",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_1ae70155-b4ab-4b1d-86e2-65c3f48f0dcf.git",
+      "name": "quatre",
+      "alias": "quatre"
+    },
+    {
+      "app_id": "app_d95affee-5af9-4829-8726-ca969aaf16e6",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_d95affee-5af9-4829-8726-ca969aaf16e6.git",
+      "name": "app2",
+      "alias": "app2"
+    },
+    {
+      "app_id": "app_5f36af13-da77-44b6-ae52-31c7b6353bb5",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "ftpes://upload.n2-par.clever-cloud.com/",
+      "name": "board-demo",
+      "alias": "board-demo"
+    },
+    {
+      "app_id": "app_a61e2d85-2137-40a8-88df-1d8bd56cb454",
+      "org_id": "orga_6da271bb-0caf-42de-b85b-7b92db11c150",
+      "deploy_url": "https://push-n2-par-clevercloud-customers.services.clever-cloud.com/app_a61e2d85-2137-40a8-88df-1d8bd56cb454.git",
+      "name": "test-hugo",
+      "alias": "test-hugo"
+    }
+  ]
+}
