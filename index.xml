@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia March</title>
+    <link>%20juliamarch.cleverapps.io/</link>
+    <description>Recent content on Julia March</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Aug 2022 10:30:37 +0200</lastBuildDate><atom:link href="%20juliamarch.cleverapps.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>%20juliamarch.cleverapps.io/posts/my-first-post/</link>
+      <pubDate>Tue, 23 Aug 2022 10:30:37 +0200</pubDate>
+      
+      <guid>%20juliamarch.cleverapps.io/posts/my-first-post/</guid>
+      <description>My first post This is my first post on Hugo. Maybe I like it. Idk. Let&amp;rsquo;s see.</description>
+    </item>
+    
+  </channel>
+</rss>
