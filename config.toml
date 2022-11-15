@@ -17,7 +17,7 @@ post = "/:filename/"
 quality = 99
 
 [params]
-description = "Site de test conçu avec [Hugo](https://gohugo.io) et le sypathique thème [Cupper](https://github.com/ThePacielloGroup/cupper) project."
+description = "Site de test conçu avec [Hugo](https://gohugo.io) et le sypathique thème extrait du [Cupper](https://github.com/ThePacielloGroup/cupper) project."
 homeMetaContent = "Site de test conçu avec Hugo et le sypathique thème Cupper."
 footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed on [Clever Cloud](https://clever-cloud.com/)."
 dateFormat = "Jan 2, 2006"
