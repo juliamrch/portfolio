@@ -18,7 +18,7 @@ Je ne connaissais rien à Hugo, mais je partais de quelques constats :
 
 Donc me voilà embarquée sur Hugo. Le but est de :
 
-- [X] Me sortir les doigts du séant
+- [X] Me sortir les phalanges du séant
 - [ ] Comprendre pourquoi il y a une puce devant mes checkboxes
 - [ ] Configuer ce site
 - [ ] Migrer mes posts depuis Wordpress vers Hugo (l'aventuranh)
