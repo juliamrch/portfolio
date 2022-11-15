@@ -1,4 +1,4 @@
 baseURL = 'https://juliamarch.cleverapps.io'
 languageCode = 'en-us'
 title = 'Julia March'
-theme = "ananke"
+theme = "cupper-hugo-theme"
