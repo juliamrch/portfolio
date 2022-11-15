@@ -1,4 +1,42 @@
 baseURL = 'https://juliamarch.cleverapps.io'
-languageCode = 'en-us'
+languageCode = 'fr'
 title = 'Julia March'
 theme = "cupper-hugo-theme"
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+menu:
+  nav:
+    - name: Accueil
+      url: /
+      weight: 1
+    - name: Blog Posts
+      url: /posts/
+      weight: 2
+    - name: Tags
+      url: /tags/
+      weight: 3
+    - name: RSS
+      url: /index.xml
+      weight: 4
+
+params:
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Nov 15, 2022
+  katex: true
+  hideHeaderLinks: false
+  search: true
+  showThemeSwitcher: true
+  defaultDarkTheme: false
+  moveFooterToHeader: false
+  logoAlt: Logo
+
+markup:
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
