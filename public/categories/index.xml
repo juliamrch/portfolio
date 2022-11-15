@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Julia March</title>
-    <link>%20juliamarch.cleverapps.io/categories/</link>
+    <link>https://juliamarch.cleverapps.io/categories/</link>
     <description>Recent content in Categories on Julia March</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="%20juliamarch.cleverapps.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://juliamarch.cleverapps.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>%20juliamarch.cleverapps.io/</loc>
+    <loc>https://juliamarch.cleverapps.io/</loc>
     <lastmod>2022-08-23T10:30:37+02:00</lastmod>
   </url><url>
-    <loc>%20juliamarch.cleverapps.io/posts/my-first-post/</loc>
+    <loc>https://juliamarch.cleverapps.io/posts/my-first-post/</loc>
     <lastmod>2022-08-23T10:30:37+02:00</lastmod>
   </url><url>
-    <loc>%20juliamarch.cleverapps.io/posts/</loc>
+    <loc>https://juliamarch.cleverapps.io/posts/</loc>
     <lastmod>2022-08-23T10:30:37+02:00</lastmod>
   </url><url>
-    <loc>%20juliamarch.cleverapps.io/categories/</loc>
+    <loc>https://juliamarch.cleverapps.io/categories/</loc>
   </url><url>
-    <loc>%20juliamarch.cleverapps.io/tags/</loc>
+    <loc>https://juliamarch.cleverapps.io/tags/</loc>
   </url>
 </urlset>
