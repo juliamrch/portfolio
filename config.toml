@@ -8,7 +8,7 @@ sectionPagesMenu = "main"
 enableGitInfo = true
 
 [taxonomies]
-tag = "tags"
+tag = "technocritique"
 
 [permalinks]
 post = "/:filename/"
@@ -48,8 +48,8 @@ url = "/about/"
 weight = 3
 
 [[menu.nav]]
-name = "About"
-url = "/about/"
+name = "Technocritique"
+url = "/technocritique/"
 weight = 4
 
 [[menu.nav]]
