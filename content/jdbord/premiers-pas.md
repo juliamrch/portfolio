@@ -21,4 +21,8 @@ Donc me voilà embarquée sur Hugo. Le but est de :
 - [X] Me sortir les phalanges du séant
 - [ ] Comprendre pourquoi il y a une puce devant mes checkboxes
 - [ ] Configuer ce site
-- [ ] Migrer mes posts depuis Wordpress vers Hugo (l'aventuranh)
+- [x] Migrer mes posts depuis Wordpress vers Hugo (l'aventuranh)
+
+## Migrer les posts
+
+Le site d'Hugo recense des plugins qui pourraient permettre de migrer son site WordPress vers le Markdown... si on vivait au pays des bisounours. BIen sûr, cela n'a pas fonctionné. Mon serveur (aussi bien distant que local) me disait, globalement, d'aller me faire foutre, dès que je voulais réaliser l'opération. 
