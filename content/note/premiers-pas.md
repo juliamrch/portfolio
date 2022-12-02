@@ -20,7 +20,7 @@ Donc me voilà embarquée sur Hugo. Le but est de :
 
 - [X] Me sortir les phalanges du séant
 - [ ] Comprendre pourquoi il y a une puce devant mes checkboxes
-- [ ] Configuer ce site
+- [x] Configuer ce site
 - [x] Migrer mes posts depuis Wordpress vers Hugo (l'aventuranh)
 
 ## Migrer les posts
@@ -30,3 +30,7 @@ Le site d'Hugo recense des plugins qui pourraient permettre de migrer son site W
 Je ne me suis pas trop cassé la tête à chercher la raison. L'erreur était recensée dans la doc et personne ne semblait avoir d'explication, et je m'en fichais pas mal. J'ai donc utilisé [ce petit script](https://github.com/lonekorean/wordpress-export-to-markdown) qui en quelques commandes a converti mon fichier `.xml` en dossier markdown. Hop, problème suivant.
 
 ## Customiser le thème
+
+## Configurer une GitLab pipeline
+
+## Ajouter l'observabilité
