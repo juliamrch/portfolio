@@ -1,7 +1,7 @@
 ---
 title: "Migrer de Wordpress à Hugo sur Clever Cloud"
 toc: true
-date: 2022-08-23T10:30:37+02:00
+date: "2022-11-23"
 draft: false
 ---
 _Post que j'actualiserai en direct live, considérez cela comme mon_ reality show.

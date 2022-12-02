@@ -26,21 +26,16 @@ katex = true
 hideHeaderLinks = false
 search = true
 showThemeSwitcher = true
-defaultDarkTheme = false
+defaultDarkTheme = true
 moveFooterToHeader = false
 logoAlt = "An alternative text description of the logo"
-customCss = [ "css/custom_01.css", "css/custom_02.css" ]
-customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
-[[menu.nav]]
-name = "Accueil"
-url = "/"
-weight = 1
+
 
 [[menu.nav]]
 name = "Journal de bord"
-url = "/jdbord/"
-weight = 2
+url = "/note/"
+weight = 1
 
 [[menu.nav]]
 name = "À propos"
@@ -50,12 +45,12 @@ weight = 3
 [[menu.nav]]
 name = "Technocritique"
 url = "/technocritique/"
-weight = 4
+weight = 2
 
 [[menu.nav]]
 name = "RSS"
 url = "/index.xml"
-weight = 5
+weight = 4
 
 [markup]
 defaultMarkdownHandler = "goldmark"
