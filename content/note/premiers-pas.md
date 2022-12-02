@@ -25,4 +25,8 @@ Donc me voilà embarquée sur Hugo. Le but est de :
 
 ## Migrer les posts
 
-Le site d'Hugo recense des plugins qui pourraient permettre de migrer son site WordPress vers le Markdown... si on vivait au pays des bisounours. BIen sûr, cela n'a pas fonctionné. Mon serveur (aussi bien distant que local) me disait, globalement, d'aller me faire foutre, dès que je voulais réaliser l'opération. 
+Le site d'Hugo recense des plugins qui pourraient permettre de migrer son site WordPress vers le Markdown... si on vivait au pays des bisounours. BIen sûr, cela n'a pas fonctionné. Mon serveur (aussi bien distant que local) me disait, globalement, d'aller me faire foutre, dès que je voulais réaliser l'opération.
+
+Je ne me suis pas trop cassé la tête à chercher la raison. L'erreur était recensée dans la doc et personne ne semblait avoir d'explication, et je m'en fichais pas mal. J'ai donc utilisé [ce petit script](https://github.com/lonekorean/wordpress-export-to-markdown) qui en quelques commandes a converti mon fichier `.xml` en dossier markdown. Hop, problème suivant.
+
+## Customiser le thème
