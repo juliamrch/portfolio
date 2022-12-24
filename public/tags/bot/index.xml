@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bot on Julia March</title>
+    <link>https://juliamarch.cleverapps.io/tags/bot/</link>
+    <description>Recent content in bot on Julia March</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/tags/bot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool, pas cool, trouvailles #10</title>
+      <link>https://juliamarch.cleverapps.io/note/2022-11-06-jdbord-10/</link>
+      <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/note/2022-11-06-jdbord-10/</guid>
+      <description>Cool Dixième post de ce journal de bord tech, je pense qu&amp;rsquo;on peut me féliciter de ma constance. Vous pouvez envoyer cartes de voeux, fleurs et champagne au 4 rue Voltaire, 44000 Nantes, merci bien.
+-
+Je me suis penchée sur des solutions d&amp;rsquo;observabilité, ces deux dernières semaine. Je bidouille Elastic et je customise des tableaux de bord Grafana. Grâce à mon collègue Aurélien, Grafana n&amp;rsquo;a plus de secrets pour moi (je m&amp;rsquo;avance peut-être, c&amp;rsquo;est l&amp;rsquo;euphorie qui parle sûrement).</description>
+    </item>
+    
+  </channel>
+</rss>

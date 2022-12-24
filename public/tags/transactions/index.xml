@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transactions on Julia March</title>
+    <link>https://juliamarch.cleverapps.io/tags/transactions/</link>
+    <description>Recent content in transactions on Julia March</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/tags/transactions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pourquoi le prix du Bitcoin n’a aucune importance</title>
+      <link>https://juliamarch.cleverapps.io/technocritique/2021-05-17-le-prix-du-bitcoin/</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/technocritique/2021-05-17-le-prix-du-bitcoin/</guid>
+      <description>La cryptosphère s’est enflammée, la semaine dernière, suite à l’annonce faite par Elon Musk : Tesla cesse d’accepter le Bitcoin, sous prétexte de questions environnementales. Les défenseurs du Bitcoin se sont insurgés, des tweets condescendants et passif-agressifs ont été échangés entre tech-bros, c’était chaotique, c’était le cirque, c’était beau.
+Une question secondaire d’un point de vue technique. Ce post n’a pas pour vocation d’essayer d’élucider les motivations de Musk, pour la simple raison que l’on confère au personnage plus d’importance qu’il n’en a réellement.</description>
+    </item>
+    
+  </channel>
+</rss>

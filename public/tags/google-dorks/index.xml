@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>google-dorks on Julia March</title>
+    <link>https://juliamarch.cleverapps.io/tags/google-dorks/</link>
+    <description>Recent content in google-dorks on Julia March</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/tags/google-dorks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool, pas cool, trouvailles #3</title>
+      <link>https://juliamarch.cleverapps.io/note/2022-07-27-jdbord-3/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/note/2022-07-27-jdbord-3/</guid>
+      <description>Au programme : lectures cryptographiques et hacking flatulent.
+Cool J’en suis à ma dernière semaine de congés comme professeur. À partir de lundi, je prendrai mon nouveau poste et dirai au revoir aux deux mois de vacances estivaux. Cela dit, je ne sais pas si la plupart des gens interprèteraient ce à quoi j’occupe mon temps libre comme des « vacances »…
+-
+On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, que je lis avidement.</description>
+    </item>
+    
+  </channel>
+</rss>

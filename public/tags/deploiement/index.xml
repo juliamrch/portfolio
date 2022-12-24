@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deploiement on Julia March</title>
+    <link>https://juliamarch.cleverapps.io/tags/deploiement/</link>
+    <description>Recent content in deploiement on Julia March</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/tags/deploiement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mes erreurs Git les plus courantes</title>
+      <link>https://juliamarch.cleverapps.io/note/2022-08-18-erreurs-git/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/note/2022-08-18-erreurs-git/</guid>
+      <description>Cet article a été écrit à un moment où je j&amp;rsquo;ai commencé à utiliser git de façon intense, alors que j&amp;rsquo;avais toujorus réussi à le contourner. Aujourd&amp;rsquo;hui, je ne rencontre plus ces problèmes, mais il me semble intéressant de laisser une trace de la courbe d&amp;rsquo;apprentissage.
+La plupart des problèmes que je rencontrais était un conflit de nom de branches entre master et main. J&amp;rsquo;ai résolu cela avec la commande git branch -m master et git branch -m main, tout simplement.</description>
+    </item>
+    
+  </channel>
+</rss>

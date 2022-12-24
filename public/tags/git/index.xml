@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on Julia March</title>
+    <link>https://juliamarch.cleverapps.io/tags/git/</link>
+    <description>Recent content in git on Julia March</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cool, pas cool, trouvailles #5</title>
+      <link>https://juliamarch.cleverapps.io/note/2022-09-03-jdbord-5/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/note/2022-09-03-jdbord-5/</guid>
+      <description>Cool Mon nouveau taf. C’est le summum du cool. Je ne fais rien de très palpitant, pour le moment, puisque je dois maîtriser quelques bases avant. Mais il s’agit de résoudre des problèmes et d’accompagner des gens dans la maîtrise des outils. Souvent, ce sont des sujets sur lesquels j’ai moi-même buté dans ma courbe d’apprentissage, alors c’est plaisant de pouvoir montrer à d’autres comment s’en sortir.
+-
+J’ai dû prendre Git au sérieux, alors que j’avais réussi à l’éviter avec les distantes, puisque je travaille en local, puis gère mes fichiers ensuite en S/FTP.</description>
+    </item>
+    
+    <item>
+      <title>Mes erreurs Git les plus courantes</title>
+      <link>https://juliamarch.cleverapps.io/note/2022-08-18-erreurs-git/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/note/2022-08-18-erreurs-git/</guid>
+      <description>Cet article a été écrit à un moment où je j&amp;rsquo;ai commencé à utiliser git de façon intense, alors que j&amp;rsquo;avais toujorus réussi à le contourner. Aujourd&amp;rsquo;hui, je ne rencontre plus ces problèmes, mais il me semble intéressant de laisser une trace de la courbe d&amp;rsquo;apprentissage.
+La plupart des problèmes que je rencontrais était un conflit de nom de branches entre master et main. J&amp;rsquo;ai résolu cela avec la commande git branch -m master et git branch -m main, tout simplement.</description>
+    </item>
+    
+  </channel>
+</rss>
