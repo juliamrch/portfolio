@@ -1,3 +1,3 @@
 ---
-title: Jounal de bord
+title: Journal de bord
 ---
