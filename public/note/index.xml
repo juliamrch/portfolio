@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes on Julia March</title>
+    <title>Jounal de bord on Julia March</title>
     <link>https://juliamarch.cleverapps.io/note/</link>
-    <description>Recent content in Notes on Julia March</description>
+    <description>Recent content in Jounal de bord on Julia March</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 23 Nov 2022 20:04:19 -0600</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/note/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-eu</language><atom:link href="https://juliamarch.cleverapps.io/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrer de Wordpress à Hugo sur Clever Cloud</title>
       <link>https://juliamarch.cleverapps.io/note/premiers-pas/</link>
-      <pubDate>Wed, 23 Nov 2022 20:04:19 -0600</pubDate>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://juliamarch.cleverapps.io/note/premiers-pas/</guid>
       <description>Post que j&amp;rsquo;actualiserai en direct live, considérez cela comme mon reality show.

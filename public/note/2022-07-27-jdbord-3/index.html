@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -67,7 +67,7 @@ On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, 
 </head>
 
   <body>
-    <a href="#main">skip to content</a>
+    <a href="#main"></a>
     <noscript>
   <style>
     body {
@@ -187,12 +187,12 @@ On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, 
       </p>
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
+  <h2 class="vh"></h2>
   <button id="menu-button" aria-expanded="false">
     <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
       <use href="#menu"></use>
     </svg>
-    Menu
+    
   </button>
   
   <ul id="patterns-list">
@@ -241,7 +241,7 @@ On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, 
       
       
       
-      <a href="/about/" >
+      <a href="/a-propos/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use href="#bookmark"></use>
         </svg>
@@ -272,7 +272,69 @@ On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, 
         <div>
           
   <main id="main">
-    <h1>Cool, pas cool, trouvailles #3</h1>
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      Cool, pas cool, trouvailles #3
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong> </strong>Jul 27, 2022
+      
+        
+          <br>
+          <strong> </strong>Dec 2, 2022
+        
+      
+    </div>
+
+    
+      <div class="tags">
+        <strong> </strong>
+        <ul aria-label="">
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/cryptographie-en-pratique/">cryptographie-en-pratique</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/fart-app-hacking/">fart-app-hacking</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/google-dorks/">google-dorks</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/tesla/">tesla</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+
+    
+
+
     <p>Au programme : lectures cryptographiques et hacking flatulent.</p>
 <h6 id="cool">Cool</h6>
 <p>J’en suis à ma dernière semaine de congés comme professeur. À partir de lundi, je prendrai mon nouveau poste et dirai au revoir aux deux mois de vacances estivaux. Cela dit, je ne sais pas si la plupart des gens interprèteraient ce à quoi j’occupe mon temps libre comme des « vacances »…</p>
@@ -289,6 +351,80 @@ On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, 
 <p>Je ne sais pas ce qui est arrivé eu SEJ, mais leur site a disparu, avec la liste complète de commandes de recherches bien utiles pour mon petit projet de hacking flatulent. En cherchant un remplaçant, j’ai vu que Kinsta avait publié <a href="https://kinsta.com/fr/blog/operateurs-recherche-google/">une liste très complète en français</a> (eureka ! ) avec des exemples. <a href="https://securitytrails.com/blog/google-hacking-techniques">Cet article</a> de Security Trail montre comment l’appliquer au hacking. La version gratuite de leur outil est d’ailleurs très utile pour trouver tous les sous-domaines d’une marque en un clic. Tesla en a 585 (les grands malades).</p>
 
   </main>
+  <div id="disqus-container">
+  
+    <button id="disqus-button" onclick="showComments()"></button>
+    <div id="disqus-comments">
+      
+      
+      
+        <div id="disqus_thread">
+        </div>
+        <script type="application/javascript">
+          function showComments() {
+            // Config
+var disqus_config = function () {
+};
+// Build and append comments 
+var d = document;
+var s = d.createElement('script');
+s.async = true;
+s.src = '//' + "Julia" + '.disqus.com/embed.js';
+s.setAttribute('data-timestamp', + new Date());
+(d.head || d.body).appendChild(s);
+            // Remove button
+var disqusButton = document.getElementById('disqus-button');
+disqusButton.parentNode.removeChild(disqusButton); 
+// Un-hide comments
+var disqusComments = document.getElementById('disqus-comments');
+disqusComments.style.display = 'block'; 
+          }
+        </script>
+      
+      <noscript></noscript>
+    </div>
+  
+</div>
+
+  
+<script src="https://utteranc.es/client.js"
+        repo="username/username.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<style>
+    .utterances-frame {
+        background-color: transparent;
+    }
+</style>
+<script>
+    function changeTheme(theme) {
+        const message = {
+            type: "set-theme",
+            theme
+        };
+        const utteranc = document.querySelector(".utterances-frame");
+        utteranc.contentWindow.postMessage(message, "https://utteranc.es");
+    }
+
+    document.onreadystatechange = () => {
+        if (document.readyState === "complete") {
+            
+            if (!document.getElementById("darkTheme").disabled) {
+                changeTheme("photon-dark");
+            }
+            
+            document.getElementById("themer").addEventListener("click", () => {
+                changeTheme(document.getElementById("darkTheme").disabled ? "photon-dark" : "github-light");
+            });
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by
+    utterances.</a></noscript>
+
 
           
             <footer role="contentinfo">
@@ -296,7 +432,7 @@ On m’a prêté Cryptographie en pratique de Niels FERGUSON et Bruce SCHNEIER, 
   
   >
     <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+       <input type="checkbox" id="themer" class="vh">
       
       <span aria-hidden="true"></span>
     </label>

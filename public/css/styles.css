@@ -15,13 +15,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-html,
-body {
+html {
     font-size: calc(1em + 0.33vw);
     font-family: Arial, Helvetica Neue, sans-serif;
     line-height: 1.5;
     color: #111;
     background-color: #fefefe;
+}
+html,
+body {
+    /* Fixes #77 */
     overscroll-behavior-y: none;
 }
 template {
@@ -814,7 +817,7 @@ h1 svg {
     position: relative;
     font-size: 1.66rem;
 }
-.h2-container a {
+.h2-container .link-icon {
     position: absolute;
     margin-top: 0;
     top: 0;

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -66,7 +66,7 @@ J’ai rencontré plusieurs équipes de développeurs dans différentes structur
 </head>
 
   <body>
-    <a href="#main">skip to content</a>
+    <a href="#main"></a>
     <noscript>
   <style>
     body {
@@ -186,12 +186,12 @@ J’ai rencontré plusieurs équipes de développeurs dans différentes structur
       </p>
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
+  <h2 class="vh"></h2>
   <button id="menu-button" aria-expanded="false">
     <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
       <use href="#menu"></use>
     </svg>
-    Menu
+    
   </button>
   
   <ul id="patterns-list">
@@ -240,7 +240,7 @@ J’ai rencontré plusieurs équipes de développeurs dans différentes structur
       
       
       
-      <a href="/about/" >
+      <a href="/a-propos/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use href="#bookmark"></use>
         </svg>
@@ -271,7 +271,61 @@ J’ai rencontré plusieurs équipes de développeurs dans différentes structur
         <div>
           
   <main id="main">
-    <h1>Cool, pas cool, trouvailles #8</h1>
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      Cool, pas cool, trouvailles #8
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong> </strong>Oct 7, 2022
+      
+        
+          <br>
+          <strong> </strong>Dec 2, 2022
+        
+      
+    </div>
+
+    
+      <div class="tags">
+        <strong> </strong>
+        <ul aria-label="">
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/chill-work/">chill-work</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/ops/">ops</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/tech/">tech</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+
+    
+
+
     <h6 id="cool">Cool</h6>
 <p>Ce mois-ci était mon mois parisien. Je me suis tapé trois semaines d&rsquo;affilées où j&rsquo;étais constamment dans le train. Les serveurs du wagon bar de la SCNCF sont ma nouvelle famille.</p>
 <p>-</p>
@@ -287,6 +341,80 @@ J’ai rencontré plusieurs équipes de développeurs dans différentes structur
 <p>Dans le dernier, on y trouve des bangers tels que &ldquo;platform engineering is what stands between you and darkness&rdquo; et &ldquo;Disrespecting operational expertise is the shortest path to never again sleeping through the night&rdquo;.</p>
 
   </main>
+  <div id="disqus-container">
+  
+    <button id="disqus-button" onclick="showComments()"></button>
+    <div id="disqus-comments">
+      
+      
+      
+        <div id="disqus_thread">
+        </div>
+        <script type="application/javascript">
+          function showComments() {
+            // Config
+var disqus_config = function () {
+};
+// Build and append comments 
+var d = document;
+var s = d.createElement('script');
+s.async = true;
+s.src = '//' + "Julia" + '.disqus.com/embed.js';
+s.setAttribute('data-timestamp', + new Date());
+(d.head || d.body).appendChild(s);
+            // Remove button
+var disqusButton = document.getElementById('disqus-button');
+disqusButton.parentNode.removeChild(disqusButton); 
+// Un-hide comments
+var disqusComments = document.getElementById('disqus-comments');
+disqusComments.style.display = 'block'; 
+          }
+        </script>
+      
+      <noscript></noscript>
+    </div>
+  
+</div>
+
+  
+<script src="https://utteranc.es/client.js"
+        repo="username/username.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<style>
+    .utterances-frame {
+        background-color: transparent;
+    }
+</style>
+<script>
+    function changeTheme(theme) {
+        const message = {
+            type: "set-theme",
+            theme
+        };
+        const utteranc = document.querySelector(".utterances-frame");
+        utteranc.contentWindow.postMessage(message, "https://utteranc.es");
+    }
+
+    document.onreadystatechange = () => {
+        if (document.readyState === "complete") {
+            
+            if (!document.getElementById("darkTheme").disabled) {
+                changeTheme("photon-dark");
+            }
+            
+            document.getElementById("themer").addEventListener("click", () => {
+                changeTheme(document.getElementById("darkTheme").disabled ? "photon-dark" : "github-light");
+            });
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by
+    utterances.</a></noscript>
+
 
           
             <footer role="contentinfo">
@@ -294,7 +422,7 @@ J’ai rencontré plusieurs équipes de développeurs dans différentes structur
   
   >
     <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+       <input type="checkbox" id="themer" class="vh">
       
       <span aria-hidden="true"></span>
     </label>

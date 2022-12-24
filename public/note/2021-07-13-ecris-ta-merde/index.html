@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -64,7 +64,7 @@
 </head>
 
   <body>
-    <a href="#main">skip to content</a>
+    <a href="#main"></a>
     <noscript>
   <style>
     body {
@@ -184,12 +184,12 @@
       </p>
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
+  <h2 class="vh"></h2>
   <button id="menu-button" aria-expanded="false">
     <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
       <use href="#menu"></use>
     </svg>
-    Menu
+    
   </button>
   
   <ul id="patterns-list">
@@ -238,7 +238,7 @@
       
       
       
-      <a href="/about/" >
+      <a href="/a-propos/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use href="#bookmark"></use>
         </svg>
@@ -269,7 +269,69 @@
         <div>
           
   <main id="main">
-    <h1>&#34;Écris ta merde&#34;</h1>
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      &#34;Écris ta merde&#34;
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong> </strong>Jul 13, 2021
+      
+        
+          <br>
+          <strong> </strong>Dec 2, 2022
+        
+      
+    </div>
+
+    
+      <div class="tags">
+        <strong> </strong>
+        <ul aria-label="">
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/club-decriture-ete-2021/">club-decriture-ete-2021</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/philosophie-anti-perfectionnisme/">philosophie-anti-perfectionnisme</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/solutions-techniques/">solutions-techniques</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/telegram/">telegram</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+
+    
+
+
     <p>On a tous cette personne perfectionniste dans notre entourage, qui repousse les échéances et travaille d&rsquo;arrache-pied afin d&rsquo;obtenir un résultat impeccable. J&rsquo;ai rencontré un certain nombre de perfectionnistes dans ma vie, mais jamais aucun aussi extrême que mon amie Héloïse*. Héloïse est brillante, instruite, hautement compétente dans son domaine, mais reste convaincue que si elle ne produit pas quelque chose de parfait, il est inutile de le présenter, même après des heures de travail et des nuits d&rsquo;insomnie. Je vous laisse imaginer les situations catastrophiques que cela peut engendrer dans un parcours de formation universitaire où l&rsquo;on vous demande de rendre des travaux sur des concepts que vous êtes en train d&rsquo;apprendre à maîtriser.</p>
 <h6 id="de-lappréhension-à-lévitement">De l&rsquo;appréhension à l&rsquo;évitement</h6>
 <p>C&rsquo;est dans certains cas que se développe <a href="https://fr.wikipedia.org/wiki/Syndrome_d%27%C3%A9vitement_pathologique_des_demandes">l&rsquo;évitement pathologique des demandes</a>, quand le ou la perfectionniste en cause est autiste. Pire encore, un domaine aimé et dans lequel la personne s&rsquo;est spécialisée peut devenir un cauchemar dès que le moment de rendre des comptes à autrui se présente. Sans aller jusqu&rsquo;à diagnostiquer sauvagement Héloïse -je suis beaucoup de choses, mais pas psy-, je l&rsquo;ai vue, au fil des ans, paniquer de façon exponentielle au moment de rendre un travail universitaire, la panique atteignant son paroxysme avec le rendu d&rsquo;un mémoire.</p>
@@ -304,6 +366,80 @@
 <p>*Le prénom a bien évidemment été modifié.</p>
 
   </main>
+  <div id="disqus-container">
+  
+    <button id="disqus-button" onclick="showComments()"></button>
+    <div id="disqus-comments">
+      
+      
+      
+        <div id="disqus_thread">
+        </div>
+        <script type="application/javascript">
+          function showComments() {
+            // Config
+var disqus_config = function () {
+};
+// Build and append comments 
+var d = document;
+var s = d.createElement('script');
+s.async = true;
+s.src = '//' + "Julia" + '.disqus.com/embed.js';
+s.setAttribute('data-timestamp', + new Date());
+(d.head || d.body).appendChild(s);
+            // Remove button
+var disqusButton = document.getElementById('disqus-button');
+disqusButton.parentNode.removeChild(disqusButton); 
+// Un-hide comments
+var disqusComments = document.getElementById('disqus-comments');
+disqusComments.style.display = 'block'; 
+          }
+        </script>
+      
+      <noscript></noscript>
+    </div>
+  
+</div>
+
+  
+<script src="https://utteranc.es/client.js"
+        repo="username/username.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<style>
+    .utterances-frame {
+        background-color: transparent;
+    }
+</style>
+<script>
+    function changeTheme(theme) {
+        const message = {
+            type: "set-theme",
+            theme
+        };
+        const utteranc = document.querySelector(".utterances-frame");
+        utteranc.contentWindow.postMessage(message, "https://utteranc.es");
+    }
+
+    document.onreadystatechange = () => {
+        if (document.readyState === "complete") {
+            
+            if (!document.getElementById("darkTheme").disabled) {
+                changeTheme("photon-dark");
+            }
+            
+            document.getElementById("themer").addEventListener("click", () => {
+                changeTheme(document.getElementById("darkTheme").disabled ? "photon-dark" : "github-light");
+            });
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by
+    utterances.</a></noscript>
+
 
           
             <footer role="contentinfo">
@@ -311,7 +447,7 @@
   
   >
     <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+       <input type="checkbox" id="themer" class="vh">
       
       <span aria-hidden="true"></span>
     </label>

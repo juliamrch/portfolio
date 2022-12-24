@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -64,7 +64,7 @@
 </head>
 
   <body>
-    <a href="#main">skip to content</a>
+    <a href="#main"></a>
     <noscript>
   <style>
     body {
@@ -184,12 +184,12 @@
       </p>
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
+  <h2 class="vh"></h2>
   <button id="menu-button" aria-expanded="false">
     <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
       <use href="#menu"></use>
     </svg>
-    Menu
+    
   </button>
   
   <ul id="patterns-list">
@@ -238,7 +238,7 @@
       
       
       
-      <a href="/about/" >
+      <a href="/a-propos/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use href="#bookmark"></use>
         </svg>
@@ -269,7 +269,69 @@
         <div>
           
   <main id="main">
-    <h1>Apple veut scanner vos photos privées</h1>
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      Apple veut scanner vos photos privées
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong> </strong>Aug 9, 2021
+      
+        
+          <br>
+          <strong> </strong>Nov 25, 2022
+        
+      
+    </div>
+
+    
+      <div class="tags">
+        <strong> </strong>
+        <ul aria-label="">
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/apple/">apple</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/cryptographie/">cryptographie</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/csam-hash/">csam-hash</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/icloud/">icloud</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+
+    
+
+
     <p>Le 5 août 2021, Apple a semé le chaos et l&rsquo;indignation parmi les tech experts <a href="https://www.apple.com/child-safety/">en annonçant</a> de nouvelles fonctionnalités sur ses appareils. Le but ? Protéger les mineurs des contenus sexuellement explicites et prévenir la circulation de contenus pédopornographiques. Pourtant, on peut facilement s&rsquo;accorder avec n&rsquo;importe qui -à l&rsquo;exception de quelques détraqués- sur le fait la pédopornographie est horrible et qu&rsquo;il faut protéger les enfants. Alors, pourquoi tout ce foin ? Explications.</p>
 <h6 id="ce-quapple-prévoit-concrètement">Ce qu&rsquo;Apple prévoit, concrètement</h6>
 <p>Dans les faits, Apple ne prévoit rien qui ne soit déjà en pas en place sur des plateformes comme Facebook ou Twitter : l&rsquo;inspection et le scan des photos postées sur ces plateformes sont déjà en place, la nouveauté étant qu&rsquo;Apple va pouvoir scanner les photos prises directement depuis l&rsquo;appareil, reçues ou téléchargées, en puisant dans la bibliothèque photos que vous pensiez être privée.</p>
@@ -298,6 +360,80 @@
 <p>La réponse n&rsquo;est pas d&rsquo;utiliser un autre appareil ou de revenir aux téléphone à clapets, nous pouvons parfaitement vivre avec notre temps et profiter des avancées technologiques de notre époque. En revanche, il n&rsquo;est pas inutile d&rsquo;apprendre le fonctionnement des outils que nous utilisons, de faire des choix conscients au lieu de subir les décisions mégalomanes des leaders de la tech, ainsi que d&rsquo;adopter des comportements qui barreront le passage aux atteintes à la vie privée. C&rsquo;est la vôtre, vous avez le dernier mot sur ce que vous souhaitez partager, personne d&rsquo;autre.</p>
 
   </main>
+  <div id="disqus-container">
+  
+    <button id="disqus-button" onclick="showComments()"></button>
+    <div id="disqus-comments">
+      
+      
+      
+        <div id="disqus_thread">
+        </div>
+        <script type="application/javascript">
+          function showComments() {
+            // Config
+var disqus_config = function () {
+};
+// Build and append comments 
+var d = document;
+var s = d.createElement('script');
+s.async = true;
+s.src = '//' + "Julia" + '.disqus.com/embed.js';
+s.setAttribute('data-timestamp', + new Date());
+(d.head || d.body).appendChild(s);
+            // Remove button
+var disqusButton = document.getElementById('disqus-button');
+disqusButton.parentNode.removeChild(disqusButton); 
+// Un-hide comments
+var disqusComments = document.getElementById('disqus-comments');
+disqusComments.style.display = 'block'; 
+          }
+        </script>
+      
+      <noscript></noscript>
+    </div>
+  
+</div>
+
+  
+<script src="https://utteranc.es/client.js"
+        repo="username/username.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<style>
+    .utterances-frame {
+        background-color: transparent;
+    }
+</style>
+<script>
+    function changeTheme(theme) {
+        const message = {
+            type: "set-theme",
+            theme
+        };
+        const utteranc = document.querySelector(".utterances-frame");
+        utteranc.contentWindow.postMessage(message, "https://utteranc.es");
+    }
+
+    document.onreadystatechange = () => {
+        if (document.readyState === "complete") {
+            
+            if (!document.getElementById("darkTheme").disabled) {
+                changeTheme("photon-dark");
+            }
+            
+            document.getElementById("themer").addEventListener("click", () => {
+                changeTheme(document.getElementById("darkTheme").disabled ? "photon-dark" : "github-light");
+            });
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by
+    utterances.</a></noscript>
+
 
           
             <footer role="contentinfo">
@@ -305,7 +441,7 @@
   
   >
     <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+       <input type="checkbox" id="themer" class="vh">
       
       <span aria-hidden="true"></span>
     </label>

@@ -2,11 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://juliamarch.cleverapps.io/note/premiers-pas/</loc>
-    <lastmod>2022-12-02T19:22:30+01:00</lastmod>
+    <loc>https://juliamarch.cleverapps.io/post/</loc>
+    <lastmod>2022-12-24T02:33:52+01:00</lastmod>
   </url><url>
-    <loc>https://juliamarch.cleverapps.io/note/</loc>
-    <lastmod>2022-12-02T19:34:44+01:00</lastmod>
+    <loc>https://juliamarch.cleverapps.io/my-first-post/</loc>
+    <lastmod>2022-12-24T02:33:52+01:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/heading-link-test/</loc>
+    <lastmod>2022-11-28T20:04:19-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/note/premiers-pas/</loc>
+    <lastmod>2022-12-24T03:39:43+01:00</lastmod>
   </url><url>
     <loc>https://juliamarch.cleverapps.io/tags/bot/</loc>
     <lastmod>2022-12-02T19:04:29+01:00</lastmod>
@@ -287,10 +293,94 @@
     <loc>https://juliamarch.cleverapps.io/technocritique/2020-12-17-ulysses-mon-ghetto-dore/</loc>
     <lastmod>2022-11-25T19:24:57+01:00</lastmod>
   </url><url>
-    <loc>https://juliamarch.cleverapps.io/</loc>
-    <lastmod>2017-06-26T18:27:58+01:00</lastmod>
+    <loc>https://juliamarch.cleverapps.io/cmd-test/</loc>
+    <lastmod>2020-08-04T21:05:05-05:00</lastmod>
   </url><url>
-    <loc>https://juliamarch.cleverapps.io/about/</loc>
-    <priority>0</priority>
+    <loc>https://juliamarch.cleverapps.io/tags/issue/</loc>
+    <lastmod>2020-08-04T21:05:05-05:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/multiple-expandable-test/</loc>
+    <lastmod>2020-06-17T22:01:14-05:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/special-character-test/</loc>
+    <lastmod>2019-09-10T20:26:08-05:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/katex/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/katex-math-typesetting/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/math/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/typesetting/</loc>
+    <lastmod>2019-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/cupper-typography/</loc>
+    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/markdown/</loc>
+    <lastmod>2019-02-14T15:36:09-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/cupper-shortcodes/</loc>
+    <lastmod>2019-02-12T23:39:06-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/shortcodes/</loc>
+    <lastmod>2019-02-12T23:39:06-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/nasa/</loc>
+    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/nasa-images/</loc>
+    <lastmod>2018-12-27T20:46:49-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/quotes/</loc>
+    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/quotes-by-carl-jung/</loc>
+    <lastmod>2018-12-26T00:29:41-06:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/</loc>
+    <lastmod>2022-12-24T03:39:43+01:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/command-line/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/a-propos/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/fun/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/tags/migration/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://juliamarch.cleverapps.io/note/</loc>
+    <lastmod>2022-12-24T03:39:43+01:00</lastmod>
   </url>
 </urlset>

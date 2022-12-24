@@ -5,7 +5,7 @@
     <link>https://juliamarch.cleverapps.io/tags/</link>
     <description>Recent content in Tags on Julia March</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-eu</language>
     <lastBuildDate>Sun, 06 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliamarch.cleverapps.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bot</title>
@@ -607,6 +607,141 @@
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://juliamarch.cleverapps.io/tags/transactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issue</title>
+      <link>https://juliamarch.cleverapps.io/tags/issue/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>katex</title>
+      <link>https://juliamarch.cleverapps.io/tags/katex/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/katex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://juliamarch.cleverapps.io/tags/math/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typesetting</title>
+      <link>https://juliamarch.cleverapps.io/tags/typesetting/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/typesetting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://juliamarch.cleverapps.io/tags/markdown/</link>
+      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shortcodes</title>
+      <link>https://juliamarch.cleverapps.io/tags/shortcodes/</link>
+      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nasa</title>
+      <link>https://juliamarch.cleverapps.io/tags/nasa/</link>
+      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/nasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>https://juliamarch.cleverapps.io/tags/quotes/</link>
+      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/quotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>command-line</title>
+      <link>https://juliamarch.cleverapps.io/tags/command-line/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/command-line/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://juliamarch.cleverapps.io/tags/theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fun</title>
+      <link>https://juliamarch.cleverapps.io/tags/fun/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/fun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://juliamarch.cleverapps.io/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://juliamarch.cleverapps.io/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://juliamarch.cleverapps.io/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>migration</title>
+      <link>https://juliamarch.cleverapps.io/tags/migration/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://juliamarch.cleverapps.io/tags/migration/</guid>
       <description></description>
     </item>
     

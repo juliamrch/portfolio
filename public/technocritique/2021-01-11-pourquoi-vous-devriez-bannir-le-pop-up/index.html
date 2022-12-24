@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -64,7 +64,7 @@
 </head>
 
   <body>
-    <a href="#main">skip to content</a>
+    <a href="#main"></a>
     <noscript>
   <style>
     body {
@@ -184,12 +184,12 @@
       </p>
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
+  <h2 class="vh"></h2>
   <button id="menu-button" aria-expanded="false">
     <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
       <use href="#menu"></use>
     </svg>
-    Menu
+    
   </button>
   
   <ul id="patterns-list">
@@ -238,7 +238,7 @@
       
       
       
-      <a href="/about/" >
+      <a href="/a-propos/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use href="#bookmark"></use>
         </svg>
@@ -269,7 +269,30 @@
         <div>
           
   <main id="main">
-    <h1>Pourquoi vous devriez bannir le pop-up</h1>
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      Pourquoi vous devriez bannir le pop-up
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong> </strong>Jan 11, 2021
+      
+        
+          <br>
+          <strong> </strong>Nov 25, 2022
+        
+      
+    </div>
+
+    
+
+    
+
+
     <p>Depuis quelque temps, vous avez dû remarquer l’émergence de petites bulles de conversation, en bas de votre écran, quand vous naviguez sur un site. Parfois, le pop up se lance, sans que vous n’ayez rien demandé, pour vous demander si vous avez besoin « d’aide ». La plupart des sites marchands vous proposent d’installer ce type d’extensions, vous promettant une augmentation des ventes et une prospection plus précise selon les besoins de vos clients. On trouve de nombreuses fonctionnalités en fonction des extensions ou des applications proposées, avec certaines offres gratuites et d’autres payantes. C’est là que l’on est tenté de mettre en place des processus qui peuvent se révéler complètement contreproductifs, sans s’en rendre compte.</p>
 <p>Comme toujours, avec nos joujoux technologiques, le problème ne réside pas forcément dans l’outil mais dans l’usage que l’on en fait. Donner l’opportunité aux visiteurs de votre site de converser directement avec vous est une excellente idée, surtout si vous proposez des services ou des produits qui doivent prendre en compte des besoins individuels très différents pour chaque client potentiel. La bulle de tchat s’avère cependant un peu hors-sujet pour des ventes que vous réaliseriez avec ou sans conversation en ligne : si votre produit est de qualité et que vous avez soigné votre communication, la personne souhaitant l’acheter le fera, avec ou sans pop-up. Un pop-up peut s’avérer dissuasif pour votre client potentiel, surtout si le tchat s’ouvre alors que le visiteur vient de daigner cliquer sur votre site.</p>
 <p>Des gourous du « digital marketing » vous ont peut-être répété à longueur de vidéo Youtube qu’en lançant un pop-up automatiquement, sans qu’aucune manipulation de la part du visiteur soit requise, vous engagez le visiteur dans le fameux tunnel de vente, le « funnel », que c’est une bonne chose à faire. Oui, peut-être. Cependant, l’être humain est bien plus complexe que les manuels de marketing agressif veulent le faire croire et vous risquez de faire fuir plus d’un visiteur qui, sans ce pop-up, aurait cliqué sur le si précieux bouton « Acheter maintenant ».</p>
@@ -283,6 +306,80 @@
 </ol>
 
   </main>
+  <div id="disqus-container">
+  
+    <button id="disqus-button" onclick="showComments()"></button>
+    <div id="disqus-comments">
+      
+      
+      
+        <div id="disqus_thread">
+        </div>
+        <script type="application/javascript">
+          function showComments() {
+            // Config
+var disqus_config = function () {
+};
+// Build and append comments 
+var d = document;
+var s = d.createElement('script');
+s.async = true;
+s.src = '//' + "Julia" + '.disqus.com/embed.js';
+s.setAttribute('data-timestamp', + new Date());
+(d.head || d.body).appendChild(s);
+            // Remove button
+var disqusButton = document.getElementById('disqus-button');
+disqusButton.parentNode.removeChild(disqusButton); 
+// Un-hide comments
+var disqusComments = document.getElementById('disqus-comments');
+disqusComments.style.display = 'block'; 
+          }
+        </script>
+      
+      <noscript></noscript>
+    </div>
+  
+</div>
+
+  
+<script src="https://utteranc.es/client.js"
+        repo="username/username.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<style>
+    .utterances-frame {
+        background-color: transparent;
+    }
+</style>
+<script>
+    function changeTheme(theme) {
+        const message = {
+            type: "set-theme",
+            theme
+        };
+        const utteranc = document.querySelector(".utterances-frame");
+        utteranc.contentWindow.postMessage(message, "https://utteranc.es");
+    }
+
+    document.onreadystatechange = () => {
+        if (document.readyState === "complete") {
+            
+            if (!document.getElementById("darkTheme").disabled) {
+                changeTheme("photon-dark");
+            }
+            
+            document.getElementById("themer").addEventListener("click", () => {
+                changeTheme(document.getElementById("darkTheme").disabled ? "photon-dark" : "github-light");
+            });
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by
+    utterances.</a></noscript>
+
 
           
             <footer role="contentinfo">
@@ -290,7 +387,7 @@
   
   >
     <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+       <input type="checkbox" id="themer" class="vh">
       
       <span aria-hidden="true"></span>
     </label>

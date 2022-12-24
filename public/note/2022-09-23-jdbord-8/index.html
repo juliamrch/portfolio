@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -67,7 +67,7 @@ J’ai été invitée sur la chaîne Twitch d’Alex pour faire une démonstrati
 </head>
 
   <body>
-    <a href="#main">skip to content</a>
+    <a href="#main"></a>
     <noscript>
   <style>
     body {
@@ -187,12 +187,12 @@ J’ai été invitée sur la chaîne Twitch d’Alex pour faire une démonstrati
       </p>
     </div>
     <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
+  <h2 class="vh"></h2>
   <button id="menu-button" aria-expanded="false">
     <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
       <use href="#menu"></use>
     </svg>
-    Menu
+    
   </button>
   
   <ul id="patterns-list">
@@ -241,7 +241,7 @@ J’ai été invitée sur la chaîne Twitch d’Alex pour faire une démonstrati
       
       
       
-      <a href="/about/" >
+      <a href="/a-propos/" >
         <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
           <use href="#bookmark"></use>
         </svg>
@@ -272,7 +272,61 @@ J’ai été invitée sur la chaîne Twitch d’Alex pour faire une démonstrati
         <div>
           
   <main id="main">
-    <h1>Cool, pas cool, trouvailles #7</h1>
+    <h1>
+      <svg class="bookmark-icon" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
+        <use href="#bookmark"></use>
+      </svg>
+      Cool, pas cool, trouvailles #7
+    </h1>
+
+    <div class="date">
+      
+      
+      <strong> </strong>Sep 23, 2022
+      
+        
+          <br>
+          <strong> </strong>Dec 2, 2022
+        
+      
+    </div>
+
+    
+      <div class="tags">
+        <strong> </strong>
+        <ul aria-label="">
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/chill-work/">chill-work</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/ops/">ops</a>
+            </li>
+          
+            <li>
+              <svg class="tag-icon" aria-hidden="true" viewBox="0 0 177.16535 177.16535" focusable="false">
+                <use href="#tag"></use>
+              </svg>
+              
+              <a href="/tags/tech/">tech</a>
+            </li>
+          
+        </ul>
+      </div>
+    
+
+    
+
+
     <h6 id="cool">Cool</h6>
 <p>Coincoinpc, le site dont j&rsquo;avais parlé dans <a href="https://juliamarch.com/jdbord-6/">mon précédent post,</a> est maintenant chez <a href="https://juliamarch.com/jdbord-7/">Clever Cloud</a>, après quelques débâcles avec les DNS (que tout le monde déteste).</p>
 <p><a href="https://twitter.com/CoincoinPC/status/1572339566367109120?s=20&amp;t=0gJuphQAnVjAu2NKJDdOJw">https://twitter.com/CoincoinPC/status/1572339566367109120?s=20&amp;t=0gJuphQAnVjAu2NKJDdOJw</a></p>
@@ -297,6 +351,80 @@ J’ai été invitée sur la chaîne Twitch d’Alex pour faire une démonstrati
 <p>À un moment on mintais des NFTs avec des potes et on se les envoyait pour jouer à une sorte de loup-garou (trop long à expliquer), puis les artistes ont commencé à distribuer des NFTs à leur communauté. Le problème, c&rsquo;est qu&rsquo;il fallait récupérer l&rsquo;adresse de quelqu&rsquo;un, qui serait forcément associée à son identité numérique, et parfois on était frileux à l&rsquo;idée de se soumettre à ce procédé. Il fallait ensuite les envoyer un par un, ce n&rsquo;était pas automatique, ça prenait du temps. Donc, à mes yeux, Showtime (qui permet de minter des NFTs et de laisser les gens les récupérer en cliquant sur &ldquo;CLAIM&rdquo;) est une réponse à cette pratique, pas complètement à côté de la plaque, une façon d&rsquo;automatiser la distribution.</p>
 
   </main>
+  <div id="disqus-container">
+  
+    <button id="disqus-button" onclick="showComments()"></button>
+    <div id="disqus-comments">
+      
+      
+      
+        <div id="disqus_thread">
+        </div>
+        <script type="application/javascript">
+          function showComments() {
+            // Config
+var disqus_config = function () {
+};
+// Build and append comments 
+var d = document;
+var s = d.createElement('script');
+s.async = true;
+s.src = '//' + "Julia" + '.disqus.com/embed.js';
+s.setAttribute('data-timestamp', + new Date());
+(d.head || d.body).appendChild(s);
+            // Remove button
+var disqusButton = document.getElementById('disqus-button');
+disqusButton.parentNode.removeChild(disqusButton); 
+// Un-hide comments
+var disqusComments = document.getElementById('disqus-comments');
+disqusComments.style.display = 'block'; 
+          }
+        </script>
+      
+      <noscript></noscript>
+    </div>
+  
+</div>
+
+  
+<script src="https://utteranc.es/client.js"
+        repo="username/username.github.io"
+        issue-term="title"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+<style>
+    .utterances-frame {
+        background-color: transparent;
+    }
+</style>
+<script>
+    function changeTheme(theme) {
+        const message = {
+            type: "set-theme",
+            theme
+        };
+        const utteranc = document.querySelector(".utterances-frame");
+        utteranc.contentWindow.postMessage(message, "https://utteranc.es");
+    }
+
+    document.onreadystatechange = () => {
+        if (document.readyState === "complete") {
+            
+            if (!document.getElementById("darkTheme").disabled) {
+                changeTheme("photon-dark");
+            }
+            
+            document.getElementById("themer").addEventListener("click", () => {
+                changeTheme(document.getElementById("darkTheme").disabled ? "photon-dark" : "github-light");
+            });
+        }
+    };
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://github.com/utterance">comments powered by
+    utterances.</a></noscript>
+
 
           
             <footer role="contentinfo">
@@ -304,7 +432,7 @@ J’ai été invitée sur la chaîne Twitch d’Alex pour faire une démonstrati
   
   >
     <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+       <input type="checkbox" id="themer" class="vh">
       
       <span aria-hidden="true"></span>
     </label>
