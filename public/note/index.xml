@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jounal de bord on Julia March</title>
+    <title>Journal de bord on Julia March</title>
     <link>https://juliamarch.cleverapps.io/note/</link>
-    <description>Recent content in Jounal de bord on Julia March</description>
+    <description>Recent content in Journal de bord on Julia March</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-eu</language><atom:link href="https://juliamarch.cleverapps.io/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
