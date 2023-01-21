@@ -1,4 +1,4 @@
-baseURL: https://juliamarch.cleverapps.io
+baseURL: https://technocrit.ik
 languageCode: fr-eu
 defaultContentLanguage: fr
 title: Julia March
@@ -16,8 +16,7 @@ imaging:
   quality: 99
 
 params:
-  description: Site de test conçu avec [Hugo](https://gohugo.io) et le sympathique thème extrait du [Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent: Site de test conçu avec Hugo et le sypathique thème [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  #description: Tech, ressources, avis tranchés
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed on [Clever Cloud](https://clever-cloud.com/).
   # For more date formats see https://gohugo.io/functions/format/
@@ -27,10 +26,10 @@ params:
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
-  defaultDarkTheme: true
+  defaultDarkTheme: false
   moveFooterToHeader: false
   # navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  # logoAlt: 
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -53,12 +52,12 @@ menu:
     - name: Technocritique
       url: /technocritique/
       weight: 3
-    - name: À propos
-      url: /a-propos/
-      weight: 4
+    #- name: À propos
+      #url: /a-propos/
+      #weight: 4
     - name: RSS
       url: /index.xml
-      weight: 5
+      weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
