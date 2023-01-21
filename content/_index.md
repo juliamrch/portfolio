@@ -6,7 +6,7 @@ title: ""
 
 Une enfant d'internet.
 
-Je chronique et archive ici ce que je fais, pense et construis autour de moi, en fonction de mes intérêts :
+Je chronique et archive ici ce que je fais, les sujets qui m'inspirent et ce que je construis, en fonction de mes intérêts :
 
 - la technologie
 - la sociologie de comptoir
