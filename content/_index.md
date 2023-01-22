@@ -76,7 +76,7 @@ Quelques recommandations pour se coucher moins bête.
 
 - [Why the past 10 years of American life have been uniquely stupid](https://www.theatlantic.com/magazine/archive/2022/05/social-media-democracy-trust-babel/629369/), Jonathan Haidt
 - [The many worlds of enough](https://moretothat.com/the-many-worlds-of-enough/), Lawrence Yeo
-- [In defense of Bitcoin maximalims](https://vitalik.ca/general/2022/04/01/maximalist.html), Vitalik Buterin
+- [In defense of Bitcoin maximalism](https://vitalik.ca/general/2022/04/01/maximalist.html), Vitalik Buterin
 - [The gentrification of the internet](https://web.archive.org/web/20190405064445/https://culturedigitally.org/2019/03/the-gentrification-of-the-internet/), Jessa Lingel
 - [A cypherpunk's manifesto](https://www.activism.net/cypherpunk/manifesto.html), Eric Hughes
 {{< /expandable >}}
