@@ -1,5 +1,5 @@
 ---
-title: "Migrer de Wordpress à Hugo sur Clever Cloud"
+title: "📌 Migrer de Wordpress à Hugo sur Clever Cloud"
 toc: true
 date: "2022-11-23"
 ---
