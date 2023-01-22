@@ -30,7 +30,7 @@ Je suis ravie que mon enfance passée dans une secte psolélyte ait enfin trouv�
 
 ### 📉 Mes résultats au DU
 
-J'ai entamé il y a un an un DU Délégué à la Protection de Données à Assas, sans trop savoir ce que j'allais en faire. J'avais l'impression que le programme traitait de thématiques qui 1) me tenaient à coeur et 2) me passionnaient.
+J'ai entamé il y a un an un DU Délégué à la Protection de Données à Assas, sans trop savoir ce que j'allais en faire. J'avais l'impression que le programme traitait de thématiques qui 1) me tenaient à coeur, 2) me passionnaient et 3) étaient à même de me mener vers une reconversion.
 
 Le problème, c'est que je m'en suis désintéressée à mesure que la formation se déroulait, face aux cours très administratifs, très bureaucratiques, et pratiquement pas techniques. À titre personnel, c'est aussi bien la protection des personnes (et par extension, de leurs données) que la souveraineté numérique qui m'intéressent.
 
