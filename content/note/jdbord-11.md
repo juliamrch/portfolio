@@ -1,8 +1,7 @@
 ---
-title: " Cool, pas cool, trouvailles #11 "
+title: "Cool, pas cool, trouvailles #11"
 date: 2023-01-22T00:30:13+01:00
 draft: false
-toc: true
 categories: 
   - "journal-de-bord"
 ---
