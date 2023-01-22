@@ -42,7 +42,7 @@ Cette formation aura eu le mérite de m'aider à comprendre que :
 
 Aux États-Unis, les DPO sont en général des ingénieurs, tandis qu'en Europe ce poste est généralement attribué à des juristes. L'alliance de la maîtrise des enjeux juridiques ET techniques produit des dynamiques brillantes. Mais la brillance, ce n'est pas pour maintenant, car je viens de découvrir que j'ai obtenu la note de 6/20 à l'écrit. Je ne valide le diplôme que parce que j'ai eu 15/20 à mon exposé (les modèles d'isolation des VMs, flux de confiance VS Zero Trusted Network, un truc fun, quoi) et un petit 13 au QCM.
 
-Je ne sais pas COMMENT j'ai pu en arriver à obtenir 6 à l'écrit, alors qu' l'épreuve n'était absolument pas compliquée. Quand je vais le raconter à ma mère, elle risque de me déshériter et de me demander combien ont eu mes "copines, qui ont probablement révisé, ELLES".
+Je ne sais pas COMMENT j'ai pu en arriver à obtenir 6 à l'écrit, alors que l'épreuve n'était absolument pas compliquée. Quand je vais le raconter à ma mère, elle risque de me déshériter et de me demander combien ont eu mes "copines, qui ont probablement révisé, ELLES".
 
 Ces résultats n'influencent aucunement ma situation actuelle, car je suis à un poste qui me plaît, mais tout de même, l'ego en prend un coup 💔
 
