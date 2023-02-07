@@ -12,7 +12,7 @@ C'était la première fois que j'y allais et il s'avère que non seulement le FO
 
 Je suis majoritairement restée dans la Go devroom, mais j'ai aussi réussi à m'inscruter dans la DNS devroom. J'avoue que les talks au sujet du DNS m'ont majoritairement échappés techniquement, à part celui sur les [usages insolites du DNS](https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/), qui fut un franc succès.
 
-J'ai aussi eu l'occasion de remercier les maintainers de [Homebrew](https://brew.sh/index_fr) de me sauver la vie chaque jour que Dieu fait et de leur soutire un ✨magnifique✨ sticker.
+J'ai aussi eu l'occasion de remercier les maintainers de [Homebrew](https://brew.sh/index_fr) de me sauver la vie chaque jour que Dieu fait et de leur soutirer un ✨magnifique✨ sticker.
 
 ## Pas cool
 
