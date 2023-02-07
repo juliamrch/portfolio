@@ -35,7 +35,7 @@ Je ne me suis pas trop cassé la tête à chercher la raison. L'erreur était re
 
 ## Customiser le thème
 
-Jusqu'ici, j'ai planté les fondations du truc. Il me manque une page d'accueil sympa (oui, car ceci est mon site sympa), mais ce n'est pas la priorité. La priorité, ma bonne dame, ce sont :sparkles: _les jolies choses_ :sparkles:.
+Jusqu'ici, j'ai planté les fondations du truc. Il me manque une page d'accueil sympa (oui, car ceci est mon site sympa), mais ce n'est pas la priorité. La priorité, ma bonne dame, ce sont ✨ _les jolies choses_ ✨
 
 Dans ma liste, j'ai deux tâches principales :
 
@@ -47,7 +47,7 @@ Dans ma liste, j'ai deux tâches principales :
 * Personnaliser les icônes du menu
 * Ajouter d'autres langages pour, par exemple, [dessiner des diagrammes en Markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/)
 
-Pas de grandes ambitions esthétiques. À terme, je me demande s'il serait possible d'intégrer [Dataview](https://blacksmithgu.github.io/obsidian-dataview/), que j'utilise sur [Obsidian](https://obsidian.md) pour créer des tableaux de bords et des fichiers de suivi. Je n'ai pas fait de recherches dans ce sens. 
+Pas de grandes ambitions esthétiques. À terme, je me demande s'il serait possible d'intégrer [Dataview](https://blacksmithgu.github.io/obsidian-dataview/), que j'utilise sur [Obsidian](https://obsidian.md) pour créer des tableaux de bords et des fichiers de suivi. Je n'ai pas fait de recherches dans ce sens.
 
 ## Configurer une GitLab pipeline
 

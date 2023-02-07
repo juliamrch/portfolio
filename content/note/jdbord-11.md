@@ -12,7 +12,7 @@ Ce site commence enfin à ressembler à quelque chose d'à peu près structuré.
 
 ### 💸 J'ai (encore) acheté un nom de domaine
 
-J'adore posséder des noms de domaine avec lesquels je fais des jeux de mots de darons. Il sera attribué à ce blog quand les DNS auront fini de se propager. En attentant, les noms de domaines de test de Clever dont bien pratiques.
+J'adore posséder des noms de domaine avec lesquels je fais des jeux de mots de darons. Il sera attribué à ce blog quand les DNS auront fini de se propager. En attendant, les noms de domaines de test de Clever dont bien pratiques.
 
 J'ai toujours trouvé qu'avoir un site à son nom propre était un peu cul-cul, mais je n'avais pas d'idées au moment de lancer ce porfolio/archive. Ce qui est bien, avec les noms de domaines, c'est qu'on peut en changer comme de chemises (ou de mec) quand on s'en lasse.
 
