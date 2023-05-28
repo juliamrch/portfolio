@@ -32,7 +32,7 @@ Mon collègue [Florentin](https://twitter.com/FlorentinDUBOIS?s=20) a déployé 
 
 ## Pas cool
 
-Je vais le dire : Devoxx demande une énergie et une vibe que je n'ai pas et ne possèderai jamais. L'atelier indexation avec Elasatic et l'atelier Rust étaient top, mais la sociabilité en dehors des ateliers est... intense. Trop pour moi.
+Je vais le dire : Devoxx demande une énergie et une vibe que je n'ai pas et ne possèderai jamais. L'atelier indexation avec Elastic et l'atelier Rust étaient top, mais la sociabilité en dehors des ateliers est... intense. Trop pour moi.
 
 Sans parler de ce type, un commercial de chez GitHub, qui a négligemment posé sa main sur mon genou alors qu'on discutait (????). On a frôlé le drame et je ne vais pas entrer dans les détails (pour cause de flemme, principalement), hormis pour dire : certains n'avez pas les moyens de vos ambitions, que vous travailliez chez Microsoft ou au kebab du coin. Un brin de lucidité sauvera peut-être quelques-unes de vos maigres phalanges.
 
