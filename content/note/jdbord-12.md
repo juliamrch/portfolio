@@ -1,5 +1,5 @@
 ---
-title: " Cool, pas cool, trouvailles #12 "
+title: "Cool, pas cool, trouvailles #12"
 date: 2023-02-06T17:23:31+01:00
 draft: false
 ---
@@ -22,7 +22,7 @@ Ce n'est pas une fatalité. Je pourrai aussi conecter mon bot à d'autres résea
 
 ![boîte de dialogue Windows95 : "Did you know? Gay culture is when you walk into your Grindr hookup's apartment & wonder if this is where you die"](/images/bot-cover.jpg)
 
-_*soupir*_
+__soupir__
 
 ## Trouvailles
 
