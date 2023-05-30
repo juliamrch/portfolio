@@ -2,7 +2,7 @@ baseURL: https://juliamarch.com
 languageCode: fr-eu
 defaultContentLanguage: fr
 title: Julia March
-theme: cupper-hugo-theme
+theme: cupper-hugo-theme, matomo
 disqusShortname: Julia
 enableGitInfo: true
 
