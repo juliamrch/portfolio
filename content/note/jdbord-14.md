@@ -8,7 +8,11 @@ Pour une fois, je n'ai pas écrit non par parce que ma vie est chiante, mais par
 
 ## Cool
 
+<<<<<<< HEAD
 Parfois, je vais à des conventions et à des rendez-vous tech. Pas que je sois une grande amatrice d'évènements sociaux profesionnels. Cependant, c'est souvent l'occasion de revoir des amis ou de s'en faire des nouveaux. J'avais adoré [le FOSDEM](jdbord-12), mais cela a placé la barre haut. Peu d'évènements tech me plairont autant.
+=======
+Parfois, je vais à des conventions et à des rendez-vous tech. Pas que je sois une grande amatrice d'évènements sociaux professionnels. Cependant, c'est souvent l'occasion de revoir des amis ou de s'en faire des nouveaux. J'avais adoré [le FOSDEM](jdbord-12), mais cela a placé la barre haut. Peu d'évènements tech me plairont autant.
+>>>>>>> 14cfbf20860080e852ac602b7b8151f832a12dea
 
 ### 🇪🇸 Le séminaire d'entreprise
 
@@ -32,7 +36,11 @@ Mon collègue [Florentin](https://twitter.com/FlorentinDUBOIS?s=20) a déployé 
 
 ## Pas cool
 
+<<<<<<< HEAD
 Je vais le dire : Devoxx demande une énergie et une vibe que je n'ai pas et ne possèderai jamais. L'atelier indexation avec Elasatic et l'atelier Rust étaient top, mais la sociabilité en dehors des ateliers est... intense. Trop pour moi.
+=======
+Je vais le dire : Devoxx demande une énergie et une vibe que je n'ai pas et ne possèderai jamais. L'atelier indexation avec Elastic et l'atelier Rust étaient top, mais la sociabilité en dehors des ateliers est... intense. Trop pour moi.
+>>>>>>> 14cfbf20860080e852ac602b7b8151f832a12dea
 
 Sans parler de ce type, un commercial de chez GitHub, qui a négligemment posé sa main sur mon genou alors qu'on discutait (????). On a frôlé le drame et je ne vais pas entrer dans les détails (pour cause de flemme, principalement), hormis pour dire : certains n'avez pas les moyens de vos ambitions, que vous travailliez chez Microsoft ou au kebab du coin. Un brin de lucidité sauvera peut-être quelques-unes de vos maigres phalanges.
 
