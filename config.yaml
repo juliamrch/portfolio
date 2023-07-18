@@ -42,7 +42,6 @@ params:
     repo: username/username.github.io
     issueTerm: title
     theme: github-light
-
 menu:
   nav:
     - name: Accueil
