@@ -66,6 +66,8 @@ Recherche, commentaires et analyses des systèmes de valeurs féminins dans les 
 {{< expandable label="⚙️ Ateliers" level="2" >}}
 
 - [Club d'écriture virtuel]({{< ref "/ateliers/club-ecriture" >}})
+- [Créer un site sous Hugo](https://github.com/juliamrch/Hugo-Workshop)
+  
 {{< /expandable >}}
 
 ## Ressources utiles
@@ -90,3 +92,6 @@ Quelques recommandations pour se coucher moins bête.
 - [(5+5)-step self-taught CS curriculum](https://www.reddit.com/r/learnprogramming/comments/gsansp/my_55step_selftaught_cs_curriculum_updated/)
 
 {{< /expandable >}}
+
+
+[def]: https://github.com/juliamrch/Hugo-Workshop
