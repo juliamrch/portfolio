@@ -2,6 +2,15 @@
 title: "Manifeste contre la SocialTech"
 date: 2023-10-26T22:19:03+02:00
 draft: false
+categories: 
+  - "technocritique"
+tags:
+  - SocialTech
+  - justice sociale
+  - féminisme
+  - care
+  - conférences tech
+  - marketing
 ---
 
 Vous ne me verrez probablement jamais à un évènement SocialTech. Dans ce texte, j'explique pourquoi.
