@@ -17,7 +17,7 @@ Vous ne me verrez probablement jamais à un évènement SocialTech. Dans ce text
 
 ## Aux origines de la SocialTech
 
-La Social Technology, SocialTech pour les intimes, n'est pas qu'une mode évènementielle. C'est un courant de pensé qui, puisé à ses sources (le XIXe siècle) se donne pour mission de [réflechir à un système de valeur guidant la science et le développement de la technologie pour la mettre au service des communautés humaines](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/210992). Ces principes régulateurs s'appliqueraient aussi bien à l'activité d'invention qu'à **la division du travail**. Vous verrez, nous reviendrons sur ce tout dernier point plus tard, car il a son importance.
+La Social Technology, SocialTech pour les intimes, n'est pas qu'une mode évènementielle. C'est un courant de pensée qui, puisé à ses sources (le XIXe siècle) se donne pour mission de [réflechir à un système de valeur guidant la science et le développement de la technologie pour la mettre au service des communautés humaines](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/210992). Ces principes régulateurs s'appliqueraient aussi bien à l'activité d'invention qu'à **la division du travail**. Vous verrez, nous reviendrons sur ce tout dernier point plus tard, car il a son importance.
 
 Aux origines du terme se trouvent [Albion Woodburry Small](https://en.wikipedia.org/wiki/Albion_Woodbury_Small) et [Charles Richmond Henderson](https://en.wikipedia.org/wiki/Charles_Richmond_Henderson), deux sociologues de l'Université de Chicago, qui ont un jour décidé de rant sur la technologie et sur ses impacts sociétaux. Un peu comme moi, finalement (mais en moins sexy).
 
