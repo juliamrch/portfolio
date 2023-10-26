@@ -27,7 +27,7 @@ Comme le sujet de ce post est le rapport que j'entretiens personnellement avec l
 
 Quiconque s'opposerait publiquement à ce que le progrès technologique soit mis au service de l'humanité plutôt que de profiter à une oligarchie ferait tâche au milieu d'un dîner mondain peuplé de gens de bien. Le discours humaniste se vend bien, ce n'est pas un hasard si les CEOs de start-ups à la recherche de fonds ont la salvation messianique de l'humanité plein la bouche. Il n'est pas dit qu'un fondateur tente de rééllement risquer son chino en essayant de marcher sur l'eau devant le VC qu'il drague depuis deux ans. Et qui pourrait lui en vouloir ? Comme dit l'adage, qui ne tente rien n'a rien.
 
-Cependant, dans les faits, quelqu'un doit bien s'atteler à la tâche. Quelqu'un doit bien la créer, cette technologie émancipatrice. Je n'oserai pas dire "mettre les mains dans le cmabouis", car soyons honnêtes deux minutes, j'ai vu les mains de mes collègues.
+Cependant, dans les faits, quelqu'un doit bien s'atteler à la tâche. Quelqu'un doit bien la créer, cette technologie émancipatrice. Je n'oserai pas dire "mettre les mains dans le cambouis", car soyons honnêtes deux minutes, j'ai vu les mains de mes collègues.
 
 ### Créer et former
 
