@@ -39,7 +39,7 @@ La SocialTech, c'est aujourd'hui beaucoup de slides, beaucoup de _buzzwords_ emp
 
 ### Une femme parle
 
-Une femme parle de son parcours dans la tech. Elles soulève des problèmes récurrents auxquelles les femmes sont confrontées. Des gens écoutent et se disent "ah oauis, y a vraiment des gens différents de moi dans la vie en fait". À la fin, ces gens remercient la femme de leur avoir appris qu'ils n'étaient pas seuls sur Terre, tout le monde mange des petits fours et tout le monde est très content, car quand même, c'est une super ambiance.
+Une femme parle de son parcours dans la tech. Elles soulève des problèmes récurrents auxquels les femmes sont confrontées. Des gens écoutent et se disent "ah ouais, y a vraiment des gens différents de moi dans la vie en fait". À la fin, ces gens remercient la femme de leur avoir appris qu'ils n'étaient pas seuls sur Terre, tout le monde mange des petits fours et tout le monde est très content, car quand même, c'est une super ambiance.
 
 Il m'est arrivé qu'on me propose d'être cette femme. Et honnêtement... ?
 
