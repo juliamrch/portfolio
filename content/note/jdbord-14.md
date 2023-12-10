@@ -12,7 +12,7 @@ Parfois, je vais à des conventions et à des rendez-vous tech. Pas que je sois 
 
 ### 🇪🇸 Le séminaire d'entreprise
 
-Si vous aviez dit un jour que j'aimerais assister à un séminaire d'entreprise, je vous aurais ri au nez. Cependant, assister au séminaire de [Clever Cloud](clever-cloud.com), c'est différent. Probablement parce que l'entreprise pour laquelle j'ai trahi l'Éducation Nationale ressemble à un laboratoire rempli de fous furieux qui, aussi, il faut le dire, savent bien vivre.
+Si vous aviez dit un jour que j'aimerais assister à un séminaire d'entreprise, je vous aurais ri au nez. Cependant, assister au séminaire de [Clever Cloud](https://clever-cloud.com), c'est différent. Probablement parce que l'entreprise pour laquelle j'ai trahi l'Éducation Nationale ressemble à un laboratoire rempli de fous furieux qui, aussi, il faut le dire, savent bien vivre.
 
 Le fait que l'hôtel fût un 4 étoiles avec une gigantesque piscine n'y a peut-être pas été pour rien. Je ne sais pas, je lance des hypothèses au hasard.
 
