@@ -8,7 +8,7 @@ Pour une fois, je n'ai pas écrit non par parce que ma vie est chiante, mais par
 
 ## Cool
 
-Parfois, je vais à des conventions et à des rendez-vous tech. Pas que je sois une grande amatrice d'évènements sociaux professionnels. Cependant, c'est souvent l'occasion de revoir des amis ou de s'en faire des nouveaux. J'avais adoré [le FOSDEM](jdbord-12), mais cela a placé la barre haut. Peu d'évènements tech me plairont autant.
+Parfois, je vais à des conventions et à des rendez-vous tech. Pas que je sois une grande amatrice d'évènements sociaux professionnels. Cependant, c'est souvent l'occasion de revoir des amis ou de s'en faire des nouveaux. J'avais adoré [le FOSDEM](/note/jdbord-12), mais cela a placé la barre haut. Peu d'évènements tech me plairont autant.
 
 ### 🇪🇸 Le séminaire d'entreprise
 
