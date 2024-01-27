@@ -6,7 +6,7 @@ draft: false
 
 Choper une tendinite fait décidément perdre les bonnes habitudes.
 
-Dans cette note, plein de choses cool, pas cool, et dans laquelle plein de trouvailles passerons sûrement à la trappe. C'est ma vie, comme dit l'adage. Résumé de ce qui s'est passé les derniers mois.
+Dans cette note, plein de choses cool, pas cool, et dans laquelle plein de trouvailles passerons sûrement à la trappe. C'est la vie, comme dit l'adage. Résumé de ce qui s'est passé les derniers mois.
 
 ## Cool
 
