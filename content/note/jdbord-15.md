@@ -46,7 +46,7 @@ Je n'aime pas beaucoup les soirées pros. Mais j'aime beaucoup les soirées orga
 - [Astro](https://docs.astro.build/en/getting-started/)
 - [Medusa.js](https://docs.medusajs.com) (ma pref !!!)
 - La doc des [Cloudflare Pages](https://developers.cloudflare.com/pages)
-- Le [Rust Books](https://doc.rust-lang.org/stable/book/) pour sa didactique inégalée
+- Le [Rust Book](https://doc.rust-lang.org/stable/book/) pour sa didactique inégalée
 - [Litestream](https://litestream.io/guides/) : outil très simple de réplication de SQLite, formidablement documenté, à mon sens.
 
 ### Le portfolio de Célia
