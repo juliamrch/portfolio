@@ -35,12 +35,6 @@ Ce que je peux dire, c'est qu'on se prend la tête, avec les bros, autour de la 
 
 Il ne s'agit pas seulement d'accélérer la prise en main de la plateforme par les clients : tout comme d'autres documentations nous ont inspirés et aidés à concevoir la nôtre, cette doc peut éventuellement, à terme, aider d'autres gens dans la conception de la leur. Les projets bien documentés rendent accessible le maniement d'outils informatiques, font gagner du temps à tout le monde, et préviennent l'apparition de la ride du lion (j'ai personnellement à cœur l'état de notre épiderme à tous et à toutes).
 
-### 🎙️ 100e épisode de MACI
-
-Début janvier se tenait l'enregistrement du 100e épisode de [Message à Caratère Informatique](https://www.clever-cloud.com/podcast/invitation-pour-lepisode-100-en-live-sur-twicth-depuis-le-palace-de-nantes/) à Nantes, au Palace (et accessoirement, mon lieu de travail quand je décide de sortir de chez moi pour socialiser avec mon prochain au travail).
-
-Je n'aime pas beaucoup les soirées pros. Mais j'aime beaucoup les soirées organisées par Clever Cloud. On rencontre toujours des gens intéressants et on rigole bien.
-
 #### Quelques docs que j'aime bien
 
 - [Astro](https://docs.astro.build/en/getting-started/)
@@ -48,6 +42,12 @@ Je n'aime pas beaucoup les soirées pros. Mais j'aime beaucoup les soirées orga
 - La doc des [Cloudflare Pages](https://developers.cloudflare.com/pages)
 - Le [Rust Book](https://doc.rust-lang.org/stable/book/) pour sa didactique inégalée
 - [Litestream](https://litestream.io/guides/) : outil très simple de réplication de SQLite, formidablement documenté, à mon sens.
+
+### 🎙️ 100e épisode de MACI
+
+Début janvier se tenait l'enregistrement du 100e épisode de [Message à Caratère Informatique](https://www.clever-cloud.com/podcast/invitation-pour-lepisode-100-en-live-sur-twicth-depuis-le-palace-de-nantes/) à Nantes, au Palace (et accessoirement, mon lieu de travail quand je décide de sortir de chez moi pour socialiser avec mon prochain au travail).
+
+Je n'aime pas beaucoup les soirées pros. Mais j'aime beaucoup les soirées organisées par Clever Cloud. On rencontre toujours des gens intéressants et on rigole bien.
 
 ### Le portfolio de Célia
 
