@@ -51,7 +51,7 @@ Je n'aime pas beaucoup les soirées pros. Mais j'aime beaucoup les soirées orga
 
 ### Le portfolio de Célia
 
-Mon amie Célia avait envie de regrouper son travail de recgerhes et ses activités associatives/pros sur un site. De mon côté, j'avais envie de tester Astro. On connaît [la suite](https://iconograph.work).
+Mon amie Célia avait envie de regrouper son travail de recherhes et ses activités associatives/pros sur un site. De mon côté, j'avais envie de tester Astro. On connaît [la suite](https://iconograph.work).
 
 Par ailleurs, si vous passez par là et que vous avez envie d'accueillir une alternante en communication qui est non seulement un puits de savoir sur des sujets niches étonnants, mais également une nerd cinéphile au dixième degré, vous pouvez tenter de lui faire signe. En supposant que quelqu'un lise mes notes, ce que je ne saurais dire.
 
